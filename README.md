@@ -5,7 +5,7 @@
 Explore the full interactive dashboard on Tableau Public:
 
 👉 [View Dashboard on Tableau](https://public.tableau.com/app/profile/yusei.hosoya/viz/TorontoFoodIndustryHealthInspections2026/Dashboard3)
-![Dashboard](Toronto_restaurant.png)
+![Dashboard](Torontofoodinspection.png)
 
 ---
 
